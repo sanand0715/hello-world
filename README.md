@@ -1,2 +1,3 @@
 # hello-world
-i m here to learn about githubs
+i m here to learn about github
+
